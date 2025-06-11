@@ -1,5 +1,5 @@
 <h1 align="center"> Harish Kumar Dwivedi</h1>
-<h3 align="center">🚀 AI | Machine Learning | Data Science | Web Developer | Explorer 🚀</h3>
+<h3 align="center">🚀 Artificial Intelligence | Machine Learning | Web Developer | Explorer 🚀</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=440&lines=Creating,+Learning+New+Things" alt="Typing SVG" />
@@ -8,10 +8,10 @@
 ---
 
 ## 🧠 About Me
-- 🎓 AiML Computer Science student with passion for **AI, Machine Learning, and Data Science**
+- 🎓 AiML Computer Science student with passion for **AI, Machine Learning, and Development**
 - 💡 I love solving real-world problems with **code, logic, and creativity**
 - 🧪 Constantly learning new tech and building side projects
-- 🌐 Interested in both **frontend development** and **smart data-driven solutions**
+- 🌐 Interested in both **development** and **smart data-driven solutions**
 - 🌱 Currently exploring: **Chatbots** & **Neural Networks**
 
 ---
@@ -48,6 +48,7 @@
 > Built a **Sales Analysis Dashboard** using Power BI.  
 > 📈 Used filters, KPIs, slicers, and charts for insights.  
 > 🔍 A great showcase of data visualization and reporting.
+
 ---
 ### 🌸 Iris Dataset ML Project
 > Applied **Machine Learning** on the famous Iris dataset.  
