@@ -12,7 +12,7 @@
 - 💡 I love solving real-world problems with **code, logic, and creativity**
 - 🧪 Constantly learning new tech and building side projects
 - 🌐 Interested in both **development** and **smart data-driven solutions**
-- 🌱 Currently exploring: **Chatbots** & **Neural Networks**
+- 🌱 My Projects are **Showcases of My Learning Across Various Domains**
 
 ---
 
