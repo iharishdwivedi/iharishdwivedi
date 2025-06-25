@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Artificial Intelligence | Machine Learning | Web Developer | Explorer 🚀</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=440&lines=Creating,+Learning+New+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=440&lines=Learn+Create+Integrate" alt="Learn ,Create and Integrate" />
 </p>
 
 ---
