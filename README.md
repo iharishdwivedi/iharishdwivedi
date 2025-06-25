@@ -1,11 +1,9 @@
 <h1 align="center"> Harish Kumar Dwivedi</h1>
 <h3 align="center">🚀 Artificial Intelligence | Machine Learning | Web Developer | Explorer 🚀</h3>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=440&lines=Learn+Create+Integrate" alt="Learn ,Create and Integrate" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=Learn+%E2%86%92+Create+%E2%86%92+Integrate" alt="Learn → Create → Integrate" />
 </p>
 
----
 
 ## 🧠 About Me
 - 🎓 AiML Computer Science student with passion for **AI, Machine Learning, and Development**
@@ -13,13 +11,9 @@
 - 🧪 Constantly learning new tech and building side projects
 - 🌐 Interested in both **development** and **smart data-driven solutions**
 - 🌱 My Projects are **Showcases of My Learning Across Various Domains**
-
 ---
-
 ## 🛠️ Tech Stack
-
 ### 🚀 Languages & Tools
-
 <p align="center">
 
   <img src="https://skillicons.dev/icons?i=python" />
@@ -74,8 +68,8 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/harish-kumar-dwivedi-b1b410203/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:harishdwivedi346@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/harish-kumar-dwivedi-b1b410203/"><img src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin" width="40" /></a>
+  <a href="mailto:harishdwivedi346@gmail.com"><img src="https://img.icons8.com/color/48/gmail-new.png" alt="gmail" width="40" /></a>
 </p>
 
 ---
