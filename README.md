@@ -51,7 +51,21 @@
 
 
 ## 📂 My Projects
+### Personal portfolio website
 
+🔗 Live Site: https://harishdwivedi.netlify.app
+
+> 🛠 **Features:**  
+Clean sidebar navigation  
+Responsive layout for all screen sizes (desktop, tablet, mobile)  
+Animated typing effect with SVG integration   
+Skills and tools categorized with hover effects  
+Dedicated Connect Me section with styled buttons for LinkedIn, Gmail, and GitHub  
+Mobile-first design with proper flex and media queries
+
+>🤝 **Credit**   
+Responsive optimization and layout refinement guided with the help of ChatGPT by OpenAI.
+---
 ### 🎮 Tic Tac Toe Game
 > A browser-based classic game with turn-based interaction using **HTML, CSS, and JavaScript**.  
 > ✅ Includes a stylish **landing page** and game logic.  
