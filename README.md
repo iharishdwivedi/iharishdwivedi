@@ -6,12 +6,23 @@
 
 
 ## 🧠 About Me
-- 🎓 AiML Computer Science student with passion for **AI, Machine Learning, and Development**
-- 💡 I love solving real-world problems with **code, logic, and creativity**
-- 🧪 Constantly learning new tech and building side projects
-- 🌐 Interested in both **development** and **smart data-driven solutions**
-- 🌱 My Projects are **Showcases of My Learning Across Various Domains**
----
+- 🎓 **AI/ML Computer Science student** passionate about **Artificial Intelligence, Machine Learning, and Development**
+- 💡 I love solving real-world problems using **code, logic, and creativity**
+- 🧪 Continuously exploring new technologies and building innovative side projects
+- 🌐 Deep interest in both **development** and **data-driven intelligent solutions**
+- 🌱 My projects are a **reflection of my continuous learning across diverse domains**
+<br>
+
+## 📝 Click To Get Resume
+<a href="https://drive.google.com/file/d/1l78OTVR4vJPfuNxRqn6O0WZe0L2ntqNS/view" target="_blank">
+  <img src="https://img.icons8.com/?size=100&id=84648&format=png&color=000000" 
+       alt="Resume" 
+       style="width: 60px; height: 60px; cursor: pointer; display: block; margin: 20px auto;">
+</a>
+
+<br>
+<br>
+
 ## 🛠️ Tech Stack
 ### 🚀 Languages & Tools
 <p align="center">
@@ -38,6 +49,7 @@
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
 
 </p>
+
 
 ---
 ## 🌐 Connect With Me
