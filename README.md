@@ -99,12 +99,6 @@ Responsive optimization and layout refinement guided with the help of ChatGPT by
 > 📊 Visualized results using **Matplotlib** and **Pandas**.
 
 ---
-### 🌐 Minimal Portfolio Website  
-Designed & developed a clean, responsive portfolio website using HTML and CSS.  
-🎨 Focused on aesthetic minimalism and responsive layout.  
-💡 A neat showcase of web fundamentals and UI polish.  
-
----
 
 
 <p align="center">
