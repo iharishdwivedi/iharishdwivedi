@@ -70,7 +70,7 @@
 > 🛠 **Features:**  
 Clean sidebar navigation  
 Responsive layout for all screen sizes (desktop, tablet, mobile)  
-Animated typing effect with SVG integration   
+
 Skills and tools categorized with hover effects  
 Dedicated Connect Me section with styled buttons for LinkedIn, Gmail, and GitHub  
 Mobile-first design with proper flex and media queries
