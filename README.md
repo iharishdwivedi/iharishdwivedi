@@ -56,7 +56,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/harish-kumar-dwivedi-b1b410203/"><img src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin" width="40" /></a>
-  <a href="mailto:harishdwivedi346@gmail.com"><img src="https://img.icons8.com/color/48/gmail-new.png" alt="gmail" width="40" /></a>
+  <a href="mailto:iharishdwivedi@gmail.com"><img src="https://img.icons8.com/color/48/gmail-new.png" alt="gmail" width="40" /></a>
 </p>
 
 ---
