@@ -37,6 +37,8 @@
   <img src="https://skillicons.dev/icons?i=github" />
   <img src="https://skillicons.dev/icons?i=vscode" />
   <img src="https://img.icons8.com/color/48/000000/power-bi.png" width="60" height="60" />
+  <img src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="PostgreSQL" />
+
 </p>
 
 ### 📊 Data Tools
