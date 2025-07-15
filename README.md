@@ -104,5 +104,5 @@ Responsive optimization and layout refinement guided with the help of ChatGPT by
 
 
 <p align="center">
-**Stay curious. Keep learning. Build fearlessly!**
+<b>Stay curious. Keep learning. Build fearlessly!</b>
   </p>
