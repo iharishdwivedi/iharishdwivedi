@@ -40,7 +40,7 @@
   <img src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="PostgreSQL" />
   <img src="https://img.icons8.com/color/48/000000/django.png" alt="Django" />
   <img src="https://pbs.twimg.com/profile_images/1735429515541938176/zOO1N7Su_400x400.jpg" alt="Render" height="60" width="60" />
-  <img src="https://img.icons8.com/?size=100&id=gbSlIfZBBQUr&format=png&color=000000" alt="Render" height="60" width="60" />
+  <img src="https://img.icons8.com/?size=100&id=gbSlIfZBBQUr&format=png&color=000000" alt="netlify" height="60" width="60" />
 </p>
 
 ### 📊 Data Tools
