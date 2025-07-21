@@ -68,7 +68,7 @@
 ## 📂 My Projects
 
 ### 📈 FinLite – Stock Market Dashboard (NSE/BSE)  
-🔗 Live Site: https://finlite.onrender.com/
+🔗 Live Site: https://finlite.onrender.com
 
 > 🛠 **Features:**  
 Real-time stock search (NSE & BSE)  
