@@ -52,6 +52,7 @@
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Plotly-logo.png" alt="Plotly" width="100" style="margin: 5px;" />
   <img src="https://img.icons8.com/?size=100&id=21893&format=png&color=000000" alt="REST API" width='40' height="40" style="margin: 5px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/ollama.svg" alt="Ollama" width='40' height="40" style="margin: 5px;"/>
 </p>
 
 ---
