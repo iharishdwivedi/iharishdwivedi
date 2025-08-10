@@ -60,7 +60,6 @@
 <p align="center" style="line-height: 2;">
   <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" height="40" style="margin: 0 15px;" />
   <img src="https://img.icons8.com/color/40/000000/postgreesql.png" alt="PostgreSQL" style="margin: 0 15px;" />
-  <img src="https://img.icons8.com/?size=40&id=8ljTDYUEydbJ&format=png&color=000000" alt="Oracle SQL" style="margin: 0 15px;" />
 </p>
 
 <p align="center"><b>Tools & Platforms</b></p>
