@@ -69,6 +69,7 @@ My goal is simple: to build meaningful, intelligent solutions that merge code wi
       <img src="https://img.icons8.com/?size=100&id=Ny0t2MYrJ70p&format=png&color=000000" alt="Power BI" height="40" style="margin: 5px;" />
       <img src="https://skillicons.dev/icons?i=netlify" alt="Netlify" height="40" style="margin: 5px;" />
       <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" height="40" style="margin: 5px;" />
+      <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/ollama.png" alt="Ollama" height="40" style="margin: 5px;" />
     </p>
   </div>
 </div>
