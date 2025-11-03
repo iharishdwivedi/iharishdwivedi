@@ -29,7 +29,7 @@ My goal is simple: to build meaningful, intelligent solutions that merge code wi
     <p align="center">
       <img src="https://skillicons.dev/icons?i=python" alt="Python" height="40" style="margin: 5px;" />
       <img src="https://skillicons.dev/icons?i=cpp" alt="C++" height="40" style="margin: 5px;" />
-      <img src="https://skillicons.dev/icons?i=sql" alt="SQL" height="40" style="margin: 5px;" />
+      <img src="https://skillicons.dev/icons?i=java" alt="Java" height="40" style="margin: 5px;" />
     </p>
   </div>
 </div>
