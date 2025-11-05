@@ -70,6 +70,8 @@ My goal is simple: to build meaningful, intelligent solutions that merge code wi
       <img src="https://skillicons.dev/icons?i=netlify" alt="Netlify" height="40" style="margin: 5px;" />
       <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" height="40" style="margin: 5px;" />
       <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/ollama.png" alt="Ollama" height="40" style="margin: 5px;" />
+      <img src="https://skillicons.dev/icons?i=firebase" alt="firebase" height="40" style="margin: 5px;" />
+      <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/light/aistudio.png" alt="gaistudio" height="40" style="margin: 5px;" />
     </p>
   </div>
 </div>
