@@ -72,6 +72,7 @@ My goal is simple: to build meaningful, intelligent solutions that merge code wi
       <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/ollama.png" alt="Ollama" height="40" style="margin: 5px;" />
       <img src="https://skillicons.dev/icons?i=firebase" alt="firebase" height="40" style="margin: 5px;" />
       <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/light/aistudio.png" alt="gaistudio" height="40" style="margin: 5px;" />
+      <img src="https://img.icons8.com/?size=100&id=Rffi8qeb2fK5&format=png&color=000000" alt="streamlit" height="40" style="margin: 5px;" />
     </p>
   </div>
 </div>
