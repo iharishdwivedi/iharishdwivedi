@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="harishdwivedi.jpg" alt="Harish Kumar Dwivedi Resume" width="900"/>
+  <img src="iharishdwivedi.jpg" alt="Harish Kumar Dwivedi Resume" width="900"/>
 </p>
 
 <p align="center">
